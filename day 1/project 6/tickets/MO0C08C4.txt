@@ -1,0 +1,8 @@
+Prio: Not urgent
+
+Name: Sanjy
+
+Submitted: 2026-04-15T10:35:52.994-07:00
+
+Description:
+User is unable to open xlsx files and requests human assistance.
